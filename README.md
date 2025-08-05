@@ -97,4 +97,6 @@ thesis will look at approaches for automating the challenging knowledge acquisit
 of expert systems while taking inspiration from the design of existing expert system
 architectures.
 
+For more information see [thesis](./masters_thesis.pdf)
+
 ![System Overview](system_overview.png)
